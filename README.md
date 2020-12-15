@@ -1,0 +1,1 @@
+# LESWith3Determinants

@@ -1,5 +1,5 @@
 /**
- * COPYRIGHT © David Neidhart
+ * COPYRIGHT © 2020 David Neidhart
  */
 
 import java.util.*;
